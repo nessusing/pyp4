@@ -1,2 +1,3 @@
 # pyp4
-Pythonic wrapper for Perforce command line 
+A pythonic wrapper for Perforce command line.
+Still in very early development, lots of bugs and many incomplete features...
