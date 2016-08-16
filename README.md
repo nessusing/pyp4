@@ -1,3 +1,3 @@
 # pyp4
-A pythonic wrapper for Perforce command line.
+A pythonic wrapper for Perforce client command line. Python P4 module is NOT required.
 Still in very early development, lots of bugs and many incomplete features...
